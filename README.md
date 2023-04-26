@@ -25,7 +25,7 @@ You can simply download the script. Then give it permission and use it.
 Or use the one liner
 
 ```
-curl https://raw.githubusercontent.com/RexAckermann/commandscratchpad/main/csp | ./csp && chmod +x ./csp && mv ./csp ~/.local/bin/
+curl https://raw.githubusercontent.com/RexAckermann/commandscratchpad/main/csp | cat >> ./csp && chmod +x ./csp && mv ./csp ~/.local/bin/
 ```
 
 
